@@ -1,0 +1,33 @@
+<HTML>
+<TITLE>
+Новый уровень мощности.
+</TITLE>
+
+<BODY background= "Koenigsegg Jesko Absolut - Side 2_1.jpeg">
+<A HREF= "1стр.html" ><IMG align=left border=0 hspace=30 width="50" height="50" src = "b5e01ff8c0f55bed179312a688ded80c.png"></A>
+<CENTER>
+<H1>Koenigsegg Jesko Absolut V3</H1>
+</CENTER>
+
+<RIGHT>
+<FONT face = "Arial" size = +3 color = black>Это сочетание изменений и
+технологические усовершенствования
+увеличивает предельные обороты двигателя
+до 8500 об / мин – и увеличивает
+мощность до 1600 л.с. на
+Топливо E85. При работе на
+обычный бензиновый двигатель
+выдает 1280 лошадиных сил. В
+Особенности Jesko Absolut
+Самый мощный продукт Koenigsegg
+движок , который также является
+самый быстрый разгон в мире
+двигатель.</FONT>
+<BR><BR>
+</RIGHT>
+
+<LEFT>
+
+</LEFT>
+</BODY>
+</HTML>
